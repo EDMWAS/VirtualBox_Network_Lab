@@ -18,8 +18,8 @@ The infrastructure consists of three Virtual Machines (VMs) organized across two
 * **The Bridge Node:** **Linux Mint** is configured with dual virtual network interfaces (Dual NICs), allowing it to communicate with both subnets simultaneously.
 * **The Isolation Layer:** **Ubuntu** is initially blind to **Kali Linux** (and vice versa) because they live on entirely different network segments with no direct routing between them.
 
-![Network Segmentation Diagram](<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/05fffbf7-0a58-4dcb-896b-71815962164d" />
-)
+![Network Segmentation Diagram]<img width="1408" height="768" alt="image" src="https://github.com/user-attachments/assets/e6bb2e8d-7117-4cc6-8827-72de3e492da6" />
+
 
 ## Technical Summary of Activities
 1. **Multi-Subnet Architecture:** Built two isolated network segments inside VirtualBox to enforce hardware-level traffic separation.
