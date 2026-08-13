@@ -29,10 +29,11 @@ Linux Mint is **dual-homed**, with one network interface connected to each LAN.
 
 The environment consists of three Linux virtual machines running simultaneously in VirtualBox.
 
+**Screenshot:** VirtualBox environment showing Kali Linux, Linux Mint and Ubuntu.
 <img width="1918" height="1011" alt="image" src="https://github.com/user-attachments/assets/28ad70c6-c9a9-49a9-9f91-5830d9d45a9b" />
 
 
-**Screenshot:** VirtualBox environment showing Kali Linux, Linux Mint and Ubuntu.
+
 
 ---
 
